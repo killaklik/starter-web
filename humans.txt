@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Shimmy Shenko -- Chief shimmyar -- <shimmy@shenko.com>
 
 # THANKS
 
